@@ -6,6 +6,7 @@
       {
         "id": "98a4ce5b4451ae7a",
         "type": "tabs",
+        "dimension": 72.6923076923077,
         "children": [
           {
             "id": "01d24a35a4b52c5e",
@@ -13,13 +14,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/test.md",
+                "file": "content/posts/相应部经典_有偈篇_第一_诸天相应.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
-            }
+              "title": "相应部经典_有偈篇_第一_诸天相应"
+            },
+            "group": "7315f6cedfbd7dff"
+          }
+        ]
+      },
+      {
+        "id": "fa89ba4767a43832",
+        "type": "tabs",
+        "dimension": 27.307692307692307,
+        "children": [
+          {
+            "id": "947ba7cbef87ad1f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/posts/相应部经典_有偈篇_第一_诸天相应.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 相应部经典_有偈篇_第一_诸天相应"
+            },
+            "group": "7315f6cedfbd7dff"
           }
         ]
       }
@@ -94,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/test.md",
+                "file": "content/posts/相应部经典_有偈篇_第一_诸天相应.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for test"
+              "title": "Backlinks for 相应部经典_有偈篇_第一_诸天相应"
             }
           },
           {
@@ -113,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/test.md",
+                "file": "content/posts/相应部经典_有偈篇_第一_诸天相应.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from test"
+              "title": "Outgoing links from 相应部经典_有偈篇_第一_诸天相应"
             }
           },
           {
@@ -156,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/test.md",
+                "file": "content/posts/相应部经典_有偈篇_第一_诸天相应.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of test"
+              "title": "Outline of 相应部经典_有偈篇_第一_诸天相应"
             }
           }
         ]
@@ -184,5 +209,10 @@
     }
   },
   "active": "01d24a35a4b52c5e",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "public/posts/相应部经典_有偈篇_第一_诸天相应/index.html",
+    "public/posts/相应部经典_有偈篇_第一_诸天相应",
+    "content/posts/test.md",
+    "content/posts/相应部经典_有偈篇_第一_诸天相应.md"
+  ]
 }
