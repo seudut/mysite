@@ -1,0 +1,18 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'XMin'
+
+
+
+[[menu.main]]
+identifier = "about"
+name = "关于"
+url = "/about/"
+weight = 10
+
+[[menu.main]]
+identifier = "links"
+name = "友链"
+url = "/links/"
+weight = 20
