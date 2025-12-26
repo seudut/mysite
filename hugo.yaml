@@ -50,3 +50,7 @@ markup:
           inline:
           - - \(
             - \)
+  tableOfContents:
+    endLevel: 5
+    ordered: false
+    startLevel: 1
