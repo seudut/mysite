@@ -54,3 +54,7 @@ markup:
     endLevel: 5
     ordered: false
     startLevel: 1
+
+caches:
+  images:
+    dir: :cacheDir/images
