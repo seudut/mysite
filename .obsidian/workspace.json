@@ -6,7 +6,7 @@
       {
         "id": "98a4ce5b4451ae7a",
         "type": "tabs",
-        "dimension": 72.6923076923077,
+        "dimension": 76.35933806146572,
         "children": [
           {
             "id": "01d24a35a4b52c5e",
@@ -16,7 +16,7 @@
               "state": {
                 "file": "content/posts/相应部经典_有偈篇_第一_诸天相应.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "相应部经典_有偈篇_第一_诸天相应"
@@ -28,7 +28,7 @@
       {
         "id": "fa89ba4767a43832",
         "type": "tabs",
-        "dimension": 27.307692307692307,
+        "dimension": 23.64066193853428,
         "children": [
           {
             "id": "947ba7cbef87ad1f",
@@ -210,16 +210,18 @@
   },
   "active": "01d24a35a4b52c5e",
   "lastOpenFiles": [
+    "content/posts/佛学笔记.md",
+    "content/posts/test.md",
+    "public/posts/佛学笔记/index.html",
+    "public/posts/佛学笔记",
+    "content/posts/相应部经典_有偈篇_第一_诸天相应.md",
+    "public/posts/untitled/index.html",
+    "public/posts/untitled",
     "public/custom.css",
     "static/custom.css",
     "public/css/custom.css",
     "layouts/single.html~",
     "themes/hugo-xmin/static/css/custom.css",
-    "layouts/single.html",
-    "layouts/_default",
-    "public/posts/相应部经典_有偈篇_第一_诸天相应/index.html",
-    "public/posts/相应部经典_有偈篇_第一_诸天相应",
-    "content/posts/test.md",
-    "content/posts/相应部经典_有偈篇_第一_诸天相应.md"
+    "layouts/single.html"
   ]
 }
