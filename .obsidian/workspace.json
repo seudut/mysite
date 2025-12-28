@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/相应部经典_有偈篇_第一_诸天相应.md",
+                "file": "content/posts/因缘相应.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "相应部经典_有偈篇_第一_诸天相应"
+              "title": "因缘相应"
             },
             "group": "7315f6cedfbd7dff"
           }
@@ -36,13 +36,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/相应部经典_有偈篇_第一_诸天相应.md",
+                "file": "content/posts/因缘相应.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 相应部经典_有偈篇_第一_诸天相应"
+              "title": "Outline of 因缘相应"
             },
             "group": "7315f6cedfbd7dff"
           }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/相应部经典_有偈篇_第一_诸天相应.md",
+                "file": "content/posts/因缘相应.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 相应部经典_有偈篇_第一_诸天相应"
+              "title": "Backlinks for 因缘相应"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/相应部经典_有偈篇_第一_诸天相应.md",
+                "file": "content/posts/因缘相应.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 相应部经典_有偈篇_第一_诸天相应"
+              "title": "Outgoing links from 因缘相应"
             }
           },
           {
@@ -181,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/相应部经典_有偈篇_第一_诸天相应.md",
+                "file": "content/posts/因缘相应.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 相应部经典_有偈篇_第一_诸天相应"
+              "title": "Outline of 因缘相应"
             }
           }
         ]
@@ -210,18 +210,20 @@
   },
   "active": "01d24a35a4b52c5e",
   "lastOpenFiles": [
+    "public/posts/因缘相应/index.html",
+    "public/posts/因缘相应",
+    "content/posts/相应部经典_有偈篇_第一_诸天相应.md",
     "content/posts/佛学笔记.md",
+    "content/posts/因缘相应.md",
     "content/posts/test.md",
     "public/posts/佛学笔记/index.html",
     "public/posts/佛学笔记",
-    "content/posts/相应部经典_有偈篇_第一_诸天相应.md",
     "public/posts/untitled/index.html",
     "public/posts/untitled",
     "public/custom.css",
     "static/custom.css",
     "public/css/custom.css",
     "layouts/single.html~",
-    "themes/hugo-xmin/static/css/custom.css",
-    "layouts/single.html"
+    "themes/hugo-xmin/static/css/custom.css"
   ]
 }
